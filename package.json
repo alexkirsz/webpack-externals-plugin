@@ -1,0 +1,18 @@
+{
+  "name": "webpack-externals-plugin",
+  "version": "1.0.0",
+  "description": "Provides more powerful externals configuration options",
+  "main": "index.js",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "external",
+    "externals"
+  ],
+  "author": "Alexandre Kirszenberg <alexandre.kirszenberg@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Morhaus/webpack-externals-plugin.git"
+  },
+  "license": "MIT"
+}
